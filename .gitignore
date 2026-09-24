@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+triage_output/
+*.zip
+*.json
+.vscode/
